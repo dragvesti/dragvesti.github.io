@@ -1,0 +1,84 @@
+<!-- Google Tag Manager -->
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KDD26NF');
+    </script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- HiHello.monster! Tag Manager -->
+    <meta name="author" content="Luis Angel Maciel, Dragvesti">
+    <meta name="keywords " content="Dragvesti La Carrera Drag Queen, Dragvesti La Carrera Drag Queen Online, Dragvesti La Carrera Drag Queen En Vivo, Dragvesti La Carrera Drag Queen All Stars ">
+    <meta name="description" content="Online: 3 ediciones regulares y 2 all stars + 5 ediciones en vivo, 4 regulares y 1 all stars ">
+    <meta name="rights" content="Dragvesti" />
+    <meta name="generator" content="HiHello.monster! - Content Management" />
+
+    <meta name="robots " content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1 ">
+    <meta name="googlebot" content="index, follow">
+    <meta name="googlebot-video" content="index" />
+    <meta name="googlebot-image" content="index" />
+    <meta name="googlebot-news" content="index, follow">
+
+    <meta property="og:locale " content="es_MX ">
+    <meta property="og:type " content="website">
+    <meta property="og:title " content="Dragvesti, La Carrera Drag Queen">
+    <meta property='og:description' content='Online: 3 ediciones regulares y 2 all stars + 5 ediciones en vivo, 4 regulares y 1 all stars '>
+    <meta property="og:url " content="http://dragvesti.xiiber.com ">
+    <meta property="og:site_name " content="drag vesti, dragvesti, dragvesti en vivo, dragvesti online, dragvesti mexico, dragvesti drag queen ">
+    <meta property="og:image " content="htps:/dragvesti.xiiber.com/dragvesti-portada.jpg " />
+    <meta property="og:image:secure_url " content="htps:/dragvesti.xiiber.com/dragvesti-portada-drag.jpg " />
+    <meta property="og:image:width " content="1080 " />
+    <meta property="og:image:height " content="400 " />
+
+    <meta property="twitter:card " content="summary ">
+    <meta property="twitter:site " content="@Dragvesti_ ">
+    <meta property="twitter:domain " content="http://dragvesti.xiiber.com ">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:card " content="summary_large_image " />
+    <meta name="twitter:title " content="Dragvesti, La Carrera Drag Queen " />
+    <meta name="twitter:image " content="https:/dragvesti.xiiber.com/dragvesti-portada.jpg" />
+    <meta name="twitter:image:alt" content="Summary Card" />
+    <meta name="twitter:description " content="Online: 3 ediciones regulares y 2 all stars + 5 ediciones en vivo, 4 regulares y 1 all stars " />
+    <meta name="twitter:site" content=@Dragvesti_ " />
+    <meta name="twitter:label1 " content="Tiempo de lectura ">
+    <meta name="twitter:data1 " content="17 minutos ">
+
+    <meta name="twitter:card " content="player " />
+    <meta name="twitter:site " content="@Dragvesti_ " />
+    <meta name="twitter:title " content="Dragvesti, La Carrera Drag Queen " />
+    <meta name="twitter:description " content="Online: 3 ediciones regulares y 2 all stars + 5 ediciones en vivo, 4 regulares y 1 all stars " />
+    <meta name="twitter:image " content="https:/dragvesti.xiiber.com/dragvesti-portada.jpg " />
+    <meta name="twitter:player " content="https:/dragvesti.xiiber.com/dragvesti-allstars.mp4 " />
+    <meta name="twitter:player:width " content="480 " />
+    <meta name="twitter:player:height " content="480 " />
+    <meta name="twitter:player:stream " content="https://www.xiiber.com/dragvesti-allstars.mp4 " />
+    <meta name="twitter:player:stream:content_type " content="video/mp4 " />
+    <!--   <meta name="twitter:player:width " content="720 " />
+    <meta name="twitter:player:height " content="720 " /> -->
+
+    <link rel="canonical " href="https://dragvesti.xiiber.com/mapa-de-sitio.html " />
+    <link rel="icon " href="https://dragvesti.xiiber.com/ico/ico.png " sizes="192x192 " id="favicon " type="image/x-icon " />
+    <link rel="preload " as="font ">
+
+    <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css'>
+
+
+  <!-- Google Tag Manager (noscript) -->
+    <noscript>
+          <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KDD26NF " height="0 " width="0 " style="display:none;visibility:hidden "></iframe>
+      </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <link rel="stylesheet " href="https://www.w3schools.com/w3css/4/w3.css ">
